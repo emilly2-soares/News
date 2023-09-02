@@ -1,0 +1,29 @@
+/* Header.css */
+
+.header {
+   background-color: #332;
+   color: #fff;
+   padding: 10px 0;
+}
+
+.menu ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: space-around;
+}
+
+.menu li {
+   margin: 0;
+   padding: 0;
+}
+
+.menu a {
+   text-decoration: none;
+   color: #fff;
+}
+
+.menu a:hover {
+   color: orangered;
+}
